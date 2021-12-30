@@ -1100,9 +1100,9 @@ game.onUpdateInterval(500, function () {
             game.showLongText("Congrats! You passed all 10 levels.", DialogLayout.Bottom)
             game.showLongText("You bring the nether crystal towards the locator, maybe it needs some power?", DialogLayout.Bottom)
             game.showLongText("The locator begins to vibrate uncontrollably and shatters, destroying the crystal in the blast", DialogLayout.Bottom)
-            game.showLongText("Essence of Nether fills the air around you, the power surges through your body. You lose yourself, your mind warps, your thoughts no longer your own. ", DialogLayout.Bottom)
-            game.showLongText("You tear a portal through the cyber realm and return to stand at the Gate of Nether. It trembles as if awaiting a command. You speak it clearly and without hesitation.", DialogLayout.Bottom)
-            game.showLongText("Valaritas", DialogLayout.Bottom)
+            game.showLongText("Essence of Nether fills the air around you, the power surges through your body. You lose yourself, your mind warps, your thoughts are no longer your own. ", DialogLayout.Bottom)
+            game.showLongText("You tear a portal through the cyber realm and return to stand at the Gates of Nether. It trembles as if awaiting the words of the Nether Realm to be spoken. You speak it clearly and without hesitation.", DialogLayout.Bottom)
+            game.showLongText("In death even the dead may die", DialogLayout.Bottom)
             game.over(true)
         } else {
             music.playMelody("C - C G C5 C5 - - ", 480)
