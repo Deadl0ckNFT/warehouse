@@ -1082,7 +1082,7 @@ game.setDialogCursor(img`
     e e e e e e e e e e e e e e e e 
     `)
 level = 1
-game.showLongText("Damm! Almost had it! Where am I now??", DialogLayout.Bottom)
+game.showLongText("Damm!! Almost had it! Where am I now??", DialogLayout.Bottom)
 game.showLongText("A warehouse with 10 floors? Hmm there must be an exit at the top", DialogLayout.Bottom)
 initTiles()
 setLevel(level)
